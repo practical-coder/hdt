@@ -9,7 +9,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/haproxytech/models"
+	"github.com/haproxytech/client-native/v4/models"
 	"github.com/spf13/cobra"
 )
 
