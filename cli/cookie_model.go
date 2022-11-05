@@ -9,7 +9,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/practical-coder/hdc/models"
+	"github.com/haproxytech/client-native/v4/models"
 	"github.com/spf13/cobra"
 )
 
